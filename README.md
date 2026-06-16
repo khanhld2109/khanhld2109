@@ -40,9 +40,9 @@ Build       : Coffee Powered Human
 
 ## 🎯 Current Objectives
 
-- [ ] Finish today's tasks before opening Steam
-- [ ] Finish side project before starting another one
-- [ ] Save money
+- [x] Finish today's tasks before opening Steam
+- [x] Finish side project before starting another one
+- [x] Save money
 
 ---
 
