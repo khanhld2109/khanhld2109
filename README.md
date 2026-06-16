@@ -62,4 +62,4 @@ Touching Grass  █░░░░░░░░░░░░ 5%
 
 > "It works on my machine."
 
-And that's usually where the trouble begins.
+And that's usually where the trouble begins
